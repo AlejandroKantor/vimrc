@@ -1,0 +1,8 @@
+
+set gfn=Hack:h14,Source\ Code\ Pro:h13,Menlo:h13
+set number
+
+"set background=dark
+"colorscheme solarized  
+" we redefine the line number color as to be call less atention to it
+hi LineNr		guifg=#525252	guibg=NONE	gui=NONE
