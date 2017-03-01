@@ -6,3 +6,7 @@ set number
 "colorscheme solarized  
 " we redefine the line number color as to be call less atention to it
 hi LineNr		guifg=#525252	guibg=NONE	gui=NONE
+
+
+nnoremap ,i i_<Esc>r
+nnoremap ,a a_<Esc>r
