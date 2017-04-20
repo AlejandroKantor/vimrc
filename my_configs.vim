@@ -1,6 +1,6 @@
 
-"set gfn=Hack:h14,Source\ Code\ Pro:h13,Menlo:h13
-set gfn=Hack:h16,Source\ Code\ Pro:h15,Menlo:h15
+set gfn=Hack:h15,Source\ Code\ Pro:h14,Menlo:h14
+"set gfn=Hack:h16,Source\ Code\ Pro:h15,Menlo:h15
 
 set number
 
